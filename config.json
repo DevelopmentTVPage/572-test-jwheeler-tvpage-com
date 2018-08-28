@@ -1,0 +1,15 @@
+{
+    "title": "JWheeler",
+    "baseURL": "https:\/\/test-jwheeler@tvpage.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759247",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "test-jwheeler@tvpage.com"
+    }
+}
